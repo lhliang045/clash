@@ -208,7 +208,7 @@ DOMAIN-SUFFIX,paipai.com
 # Kingsoft
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
-DOMAIN-SUFFIX,ksyun.com
+;DOMAIN-SUFFIX,ksyun.com
 
 # Kuaishou 快手
 DOMAIN-SUFFIX,kuaishou.com
