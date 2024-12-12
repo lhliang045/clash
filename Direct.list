@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,so.com
 
 #Zoom
 DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.us.com
 
 # 58
 DOMAIN-SUFFIX,58.com
