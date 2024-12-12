@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+#Zoom
+DOMAIN-SUFFIX,zoom.us
 
 # 58
 DOMAIN-SUFFIX,58.com
